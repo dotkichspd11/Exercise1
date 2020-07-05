@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Exercise1</string>
+    <string name="textview1">What type of coffee?</string>
+    <string name="textview2">What else in you Coffee?</string>
+
+    <string name="learn">LEARN</string>
+    <string name="practice">PRACTICE</string>
+    <string name="test">TEST</string>
+
+    <string name="pay">PAY</string>
+</resources>
